@@ -1,6 +1,6 @@
 # Grievance Management System
 
-Below is a comprehensive summary of your project solution:
+Below is a comprehensive summary of our project solution:
 
 ---
 
