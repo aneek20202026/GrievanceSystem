@@ -34,7 +34,7 @@ Our team, *Bugs*, developed an AI-enhanced solution to address the challenges fa
 ### AI Integration for Enhanced Decision Support
 
 - *Tone and Urgency Analysis:* 
-  The core innovation in your solution is the integration of an AI model capable of analyzing the tone of each grievance. This analysis determines the urgency of the issue, allowing the system to automatically sort and prioritize grievances.
+  The core innovation in our solution is the integration of an AI model capable of analyzing the tone of each grievance. This analysis determines the urgency of the issue, allowing the system to automatically sort and prioritize grievances.
   
 - *Impact on Decision Making:*  
   By ranking grievances based on urgency, the DSS helps government officials quickly identify and focus on high-priority cases. This automated triage system aids in efficient resource allocation and faster resolution, thereby enhancing overall governance outcomes.
