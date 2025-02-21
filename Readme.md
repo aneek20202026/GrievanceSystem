@@ -25,6 +25,7 @@ Our team, *Bugs*, developed an AI-enhanced solution to address the challenges fa
    - *Official/Admin Portal:*  
      - *Secure Access:* Officials log in and verify their identity using email verification.
      - *Dashboard:* The dashboard displays all grievances relevant to the official’s district. It dynamically updates to include both new and previously submitted grievances.
+     - *Trending Analysis:* In addition to the standard grievance list, the admin dashboard now features a trending analysis panel. A visual chart displays which grievance category is trending in each district. When a trend is detected, the system automatically sends an email alert to the corresponding district official, ensuring they can promptly address emerging issues.
    
 2. *Real-Time Updates:* 
    - Once a new grievance is submitted and verified, it appears immediately on the admin dashboard alongside earlier submissions, ensuring that the latest issues are promptly visible.
@@ -43,6 +44,21 @@ Our team, *Bugs*, developed an AI-enhanced solution to address the challenges fa
 
 ### Benefits and Impact
 
-- *Improved Transparency:*  
-  The citizen portal provides a clear and accessible way for citizens to monitor the status of their grievances.
+*Improved Transparency:*
+The citizen portal provides a clear and accessible way for citizens to monitor the status of their grievances.
+
+*Enhanced Decision-Making:*
+Officials can make data-driven decisions with AI-supported insights, leading to more effective problem resolution and resource allocation.
+
+*Proactive Issue Resolution:*
+With real-time updates and the trending analysis feature, emerging patterns and critical issues are identified early, allowing officials to address potential problems before they escalate.
+
+*Optimized Resource Allocation:*
+Prioritization based on urgency ensures that high-impact cases receive immediate attention, maximizing the effectiveness of available resources.
+
+*Increased Accountability and Engagement:*
+The system fosters trust among citizens by ensuring that grievances are transparently tracked and promptly addressed. Automated alerts and detailed analytics hold both officials and the system accountable for quick resolution.
+
+*Actionable Insights for Long-Term Planning:*
+Detailed reports and trend analyses not only assist in immediate decision-making but also provide valuable insights for policy formulation and long-term improvements in governance.
 
